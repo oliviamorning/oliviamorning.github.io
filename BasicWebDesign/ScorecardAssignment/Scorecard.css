@@ -1,8 +1,17 @@
-.information {font-family:"Segoe UI," Verdana, Arial;}
-.table table {border-collapse:collapse; width: 100%
-.table tr:nth-child(even) td {background-color:#dcdcdc;font-family:Segoe UI, Verdana, Arial;}
+.information {
+	font-family:"Segoe UI," Verdana, Arial;
+}
+.table table {
+	border-collapse:collapse; 
+	width: 100%;
+}
+.table tr:nth-child(even) td {
+	background-color:#dcdcdc;
+	}
 .table td,
 .table th {
+	font-family:"Segoe UI", Verdana, Arial;
 	border: 4px solid #000000;
 	padding:8px;
-	text-align: center;}
+	text-align: center;
+}
