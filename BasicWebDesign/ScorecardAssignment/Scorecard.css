@@ -1,7 +1,7 @@
 .information {
 	font-family:"Segoe UI," Verdana, Arial;
 }
-.table table {
+table.table {
 	border-collapse:collapse;
 	border-spacing:0;
 	width: 100%;
