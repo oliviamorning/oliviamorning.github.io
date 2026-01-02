@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html lang="en-US">
-	<head>
-		<style> 
-			.information {font-family:Segoe UI, Verdana, Arial;}
-			.table:nth-child(even) {font-family:Segoe UI, Verdana, Arial; 
-				border-width:bold; 
-				padding: 8px; 
-				margin: 20px;
-				text-align:center;}
-		</style>
-	</head>
-</html
+.information {font-family:"Segoe UI," Verdana, Arial;}
+.table tr:nth-child(even) {background-color:#dcdcdc;font-family:Segoe UI, Verdana, Arial; 
+	border-width:4px; 
+	border-style:solid;
+	padding: 8px; 
+	margin: 20px;
+	text-align:center;}
