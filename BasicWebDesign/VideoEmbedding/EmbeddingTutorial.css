@@ -1,10 +1,10 @@
 body{
-	font-family:"Segoe UI," Verdana, Arial;}
-div.stepone{
-	text-color:#1C4A63}
-div.steptwo{
-	text-color:#106950}
-div.stepthree{
-	text-color:#4E1266}
-div.conclusion{
-	text-color:#94313B}
+	font-family:"Segoe UI", Verdana, Arial;}
+.stepone{
+	color:#1C4A63;}
+.steptwo{
+	color:#106950;}
+.stepthree{
+	color:#4E1266;}
+.conclusion{
+	color:#94313B;}
