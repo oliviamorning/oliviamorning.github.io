@@ -17,8 +17,10 @@
 			img.field{
 				-webkit-filter: grayscale(100%);
 				filter: grayscale(100%);
-				border: 47px solid transparent;
-				border-image: url("tic-tac-toe.png") 47 repeat;
+  				border: 47px solid transparent;
+				border-image-source: url("tic-tac-toe.png");
+    			border-image-slice: 1;
+    			border-image-repeat: repeat;
 			}
 			img.dinosaur{
 				-webkit-filter:
